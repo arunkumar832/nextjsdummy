@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          This is dummy site developed in NextJs as per Hari's recommendation
+          This is dummy site developed in NextJs as per Hari recommendation
         </p>
 
         <div className={styles.grid}>
